@@ -16,6 +16,7 @@
 		98C9650125628132008C8D5A /* BluetoothAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C9650025628132008C8D5A /* BluetoothAppTests.swift */; };
 		98C9650C25628132008C8D5A /* BluetoothAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C9650B25628132008C8D5A /* BluetoothAppUITests.swift */; };
 		98C9651F2562C273008C8D5A /* PeripheralCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C9651E2562C273008C8D5A /* PeripheralCell.swift */; };
+		98C965242562E709008C8D5A /* screenshot.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 98C965232562E709008C8D5A /* screenshot.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		98C9650B25628132008C8D5A /* BluetoothAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothAppUITests.swift; sourceTree = "<group>"; };
 		98C9650D25628132008C8D5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98C9651E2562C273008C8D5A /* PeripheralCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeripheralCell.swift; sourceTree = "<group>"; };
+		98C965232562E709008C8D5A /* screenshot.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.PNG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		98C964DD25628131008C8D5A = {
 			isa = PBXGroup;
 			children = (
+				98C965232562E709008C8D5A /* screenshot.PNG */,
 				98C964E825628131008C8D5A /* BluetoothApp */,
 				98C964FF25628132008C8D5A /* BluetoothAppTests */,
 				98C9650A25628132008C8D5A /* BluetoothAppUITests */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98C965242562E709008C8D5A /* screenshot.PNG in Resources */,
 				98C964F625628132008C8D5A /* LaunchScreen.storyboard in Resources */,
 				98C964F325628132008C8D5A /* Assets.xcassets in Resources */,
 				98C964F125628131008C8D5A /* Main.storyboard in Resources */,
