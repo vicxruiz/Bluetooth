@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://www.apple.com/ios/ios-14/)
 
 <p align="center">
-    <img src="screenshot.png" alt="GIF walk-through" width="250">  
+    <img src="screenshot.PNG" alt="GIF walk-through" width="250">  
 </p>
 
 ## Project Overview
